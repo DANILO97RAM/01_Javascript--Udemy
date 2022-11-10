@@ -24,8 +24,8 @@ console.log('esto es parte del objeto: ',jugo.herram);
 // se carga un doc y se puede modificar con js.
 var caja = document.querySelector('#caja');
 console.log('caja: ',caja);
-caja.style.width = '200px';
-caja.style.height = '200px';
+caja.style.width = '412px';
+caja.style.height = '412px';
 caja.style.background= 'blue';
 var cajas = document.querySelectorAll('.cajas')
 console.log('cajas: ',cajas);
